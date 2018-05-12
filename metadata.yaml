@@ -1,0 +1,27 @@
+_repo: The-Bibliography-of-Walt-Whitman_31781
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31781-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shay, Frank
+    birthdate: 1888
+    deathdate: 1954
+    gutenberg_agent_id: '35462'
+    url: http://www.gutenberg.org/2009/agents/35462
+description: ''
+gutenberg_issued: '2010-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31781'
+  lccn: '20012552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Whitman, Walt, 1819-1892 -- Bibliography'
+- !lcc 'Z'
+title: The Bibliography of Walt Whitman
+url: http://www.gutenberg.org/ebooks/31781
